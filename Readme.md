@@ -14,15 +14,6 @@ Request
 }
 
 
-### Response
-
-Example Response:
-
-```json
-{
-  "position": "TENGAH"
-}
-
 
 
 
