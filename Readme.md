@@ -13,7 +13,16 @@ Request
   "id": 3137
 }
 
-Response
+
+### Response
+
+Example Response:
+
+```json
 {
-  "position": "CENTER"
+  "position": "TENGAH"
 }
+
+
+
+
