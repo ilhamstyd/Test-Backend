@@ -12,7 +12,6 @@ Example Input dan Output:
   "id": 3137
 }
 
-```json
 {
   "position": "CENTER"
 }
