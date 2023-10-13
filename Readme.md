@@ -1,18 +1,16 @@
 
 ### Request Body
 
-The request body should be in JSON format and contain the following field:
+request harus berupa format json:
 
-- `id`: 7 numeric digits.
+- `id`: number or integer.
 
-Example:
+Example Input dan Output:
 
 ```json
 {
   "id": 3137
 }
-
-Example Response:
 
 ```json
 {
