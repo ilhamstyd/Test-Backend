@@ -1,9 +1,9 @@
 
 ### Request Body
 
-request body harus berupa format json:
+The request body should be in JSON format and contain the following field:
 
-- `id`:  with 7 numeric digits.
+- `id`: 7 numeric digits.
 
 Example:
 
@@ -11,8 +11,6 @@ Example:
 {
   "id": 3137
 }
-
-### Response
 
 Example Response:
 
